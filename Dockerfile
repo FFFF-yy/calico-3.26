@@ -1,1 +1,2 @@
-FROM ctl:v3.26.3
+FROM calico/ctl:v3.26.3
+
